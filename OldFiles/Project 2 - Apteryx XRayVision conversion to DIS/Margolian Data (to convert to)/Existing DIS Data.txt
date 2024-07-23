@@ -1,0 +1,8 @@
+DIS (Carestream Dental Imaging Software) Data is found in:
+
+C:\ABELDent\Data\Notes\PN.....
+
+Patient IDs are in the form:
+  012345
+PNXXYYZZ
+PNXX\YY\ZZIMGS

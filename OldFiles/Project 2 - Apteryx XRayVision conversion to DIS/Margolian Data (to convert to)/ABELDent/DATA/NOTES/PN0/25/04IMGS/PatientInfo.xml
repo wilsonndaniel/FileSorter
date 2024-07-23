@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<trophy type="result" version="1.0">
+    <status code="0" message="ok" />
+    <patient>
+        <parameter key="internal_id" value="6686978849268658465921101111161011159280784892505392485273777183" />
+        <parameter key="last_name" value="Amy" />
+        <parameter key="first_name" value="Leighton 02504" />
+        <parameter key="sex" value="other" />
+        <parameter key="directory" value="\\server\ABELDENT\DATA\notes\PN0\25\04IMGS" />
+    </patient>
+</trophy>
