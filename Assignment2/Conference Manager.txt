@@ -1,5 +1,0 @@
-Paper ID    Decision
-4564        Declined
-4565        accepted
-4566        borderline
-4567        Declined

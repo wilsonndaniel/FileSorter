@@ -1,2 +1,0 @@
-10.05.99--tx est reply re; 51101---cov 80%  of 1998 fees.  There is a maximum that applies but was 
-not given with the estimate reply.
