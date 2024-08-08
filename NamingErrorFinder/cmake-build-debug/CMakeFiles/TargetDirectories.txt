@@ -1,0 +1,3 @@
+C:/Users/Dental/CLionProjects/NamingErrorFinder/cmake-build-debug/CMakeFiles/NamingErrorFinder.dir
+C:/Users/Dental/CLionProjects/NamingErrorFinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dental/CLionProjects/NamingErrorFinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
