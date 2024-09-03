@@ -1,0 +1,3 @@
+C:/Users/Dental/CLionProjects/DeleteUnwantedFiles/cmake-build-debug/CMakeFiles/DeleteUnwantedFiles.dir
+C:/Users/Dental/CLionProjects/DeleteUnwantedFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dental/CLionProjects/DeleteUnwantedFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Dental/Desktop/Compudent/GitRemoteCon/FileSorter/cmake-build-debug/CMakeFiles/FileSorter.dir
+C:/Users/Dental/Desktop/Compudent/GitRemoteCon/FileSorter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dental/Desktop/Compudent/GitRemoteCon/FileSorter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

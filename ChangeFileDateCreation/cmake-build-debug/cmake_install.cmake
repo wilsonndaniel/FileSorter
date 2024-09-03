@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Dental/Desktop/Compudent/GitRemoteCon/FileSorter
+# Install script for directory: C:/Users/Dental/CLionProjects/ChangeFileDateCreation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/FileSorter")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/ChangeFileDateCreation")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Dental/Desktop/Compudent/GitRemoteCon/FileSorter/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Dental/CLionProjects/ChangeFileDateCreation/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
